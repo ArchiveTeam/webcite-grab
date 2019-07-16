@@ -59,7 +59,7 @@ if not WGET_LUA:
 VERSION = '20190716.01'
 USER_AGENT = 'ArchiveTeam'
 TRACKER_ID = 'webcite'
-TRACKER_HOST = 'tracker.kiska.pw'
+TRACKER_HOST = 'tracker.archiveteam.ogr'
 
 
 ###########################################################################
